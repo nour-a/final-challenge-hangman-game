@@ -1,0 +1,28 @@
+
+p{
+	font-weight:bold; 
+	font-size:18px;
+}
+input{
+	cursor:pointer; 
+	width:50px; 
+	font-size:18px;
+	border-radius: 12px;
+
+}
+.inputLetters, .start{
+	cursor:not-allowed; 
+	width:250px; 
+	font-size:18px;
+	color:red;
+	border-radius: 3px;
+}
+button{
+	cursor:pointer; 
+	margin-left: 10px; 
+	font-size:18px;
+	border-radius: 3px;
+}
+.start{
+	cursor: pointer;
+}
